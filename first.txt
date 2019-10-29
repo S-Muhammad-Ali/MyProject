@@ -1,9 +1,4 @@
 first local repo txt file
 
 
-
-Demo World
-
-
-
-Changes from online
+this changes made locally
